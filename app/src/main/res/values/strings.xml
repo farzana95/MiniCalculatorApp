@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="edit_text1">Enter 1st number</string>
+    <string name="edit_text2">Enter 2nd number</string>
+    <string name="view1">General Calculator</string>
+    <string name="view2">Result </string>
+    <string name="right_brace">)</string>
+    <string name="left_brace">(</string>
+    <string name="power">^</string>
+    <string name="percent">%</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="sub">-</string>
+    <string name="plus">+</string>
+</resources>
